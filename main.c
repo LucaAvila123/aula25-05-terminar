@@ -14,7 +14,7 @@ int main(){
     insere(listaInicial, pokemon3);
     insere(listaInicial, pokemon4);
 
-    //retira(listaInicial, 4);
+    retira(listaInicial, "Mew");
     imprime(listaInicial);
     return 0;
 }
